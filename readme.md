@@ -15,6 +15,8 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   
 # Instructions
 
-Use the github.com/gnolang/bounties issues for primary communication and coordination.
-Please submit all information as links to files or repos via issues here.
-Please add to bounties by making a PR request to this file.
+ * Use the github.com/gnolang/bounties issues for primary communication and coordination.
+ * Please submit all information as links to files or repos via issues here.
+ * Please add to bounties by making a PR request to this file.
+ * Please submit attributions/credits for all work; we will figure out how to split the bounty together.
+ * Please help keep bounty contribution data organized on gnolang/bounties/issues; all necessary work will be rewarded.
