@@ -13,6 +13,14 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Must share github or gitlab link to script repo
   * Also coordinate on ION governance telegram chat for updates t.me/IONGovernanceWorkingGroup
   * 5000 OSMO from @jaekwon
+  * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
+
+3. Retrospective on CosmosHub software contracts from the ICF and related entities
+  * Investigation into case studies (motivated by recent gravity bridge discussions).
+  * Proposal for legal clauses to add to software projects funded by the ICF and related entities.
+  * Optionally, a plan to create an oversign committee funded by the Cosmos Hub.
+  * 1000 ATOMs from @jaekwon
+  * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
   
 # Instructions
 
