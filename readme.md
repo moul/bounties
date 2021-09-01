@@ -17,9 +17,9 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
 
 ### 3. Retrospective on CosmosHub software contracts from the ICF and related entities
   * Investigation into case studies (motivated by recent gravity bridge discussions).
-  * Proposal for legal clauses to add to software projects funded by the ICF and related entities.
+  * Proposal for legal clauses to add to software projects funded by such entities.
   * A plan to create an oversign committee funded by the Cosmos Hub.
-  * 1000 ATOMs from @jaekwon
+  * 1000 ATOMs from @jaekwon, but first get approval for plan.
   * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
 
 ### 4. Port JOESON to Go
@@ -28,6 +28,21 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Optional: port Joescript or Javascript.
   * 1000 ATOMs from @jaekwon
   * More GNOTs than from #3.
+
+### 5. Make script for Backup Keys
+  * We can't know that there hasn't been a leak of private keys via some unknown mechanism.
+  * A large scale theft is almost inconceivable, but possible for all one knows.
+  * Such a large scale theft is the only existential risk to cosmos/crypto.
+  * Create a simple English document and Go code for the following procedures:
+    - create a backup secp256k1 AND ed25519 pubkeys on an airgapped offline computer.
+    - use gnokey.
+    - use custom entropy (e.g. dice-rolls).
+    - ask everyone on Cosmos to publish both backup pubkeys by sending a transaction with memo to a null address bech32(20 zero bytes).
+  * Use the same bip39/bip32 construction for the secp256k1 privkey/pubkey.
+  * Use only sha256() for the ed25519 privkey/pubkey but otherwise no KDF function (may need to modify gno/pkgs & gnokey.
+  * Include instructions for building this binary from a verified build of Go.
+  * 1000 ATOMs from @jaekwon
+  * Same number of GNOTs as #4.
   
 # Instructions
 
