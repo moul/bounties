@@ -21,6 +21,13 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Optionally, a plan to create an oversign committee funded by the Cosmos Hub.
   * 1000 ATOMs from @jaekwon
   * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
+
+### 4. Port JOESON to Go
+  * github.com/jaekwon/joescript
+  * The intent is to create an independent left-recursive PEG parser for Gno.
+  * Optional: port Joescript or Javascript.
+  * 1000 ATOMs from @jaekwon
+  * More GNOTs than from #3.
   
 # Instructions
 
