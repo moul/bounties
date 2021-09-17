@@ -16,7 +16,7 @@ PAYMENT: pending, will be updated here when done.
    - ICF 10 points
    - Sunny deferred to the ICF
    - LL-Cosmo 1 point
-   - Nostradamus411 1 point
+   - Nostradamus411 1 point - osmo10jm8fvdyqlj78w0j5nawc76wsn4pqmdxj4q5zl
    - ajofuk 1 point
    - 1000 OSMO * x/13
 
@@ -53,5 +53,5 @@ Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon)
  * proposed rewards:
    - romelukaku 15 points
    - RowanUtrecht 3 points
-   - Nostradamus411 5 points
+   - Nostradamus411 5 points - osmo10jm8fvdyqlj78w0j5nawc76wsn4pqmdxj4q5zl
    - 5000 OSMO * x/23
