@@ -17,7 +17,7 @@ PAYMENT: pending, will be updated here when done.
    - Sunny deferred to the ICF
    - LL-Cosmo 1 point
    - Nostradamus411 1 point - osmo10jm8fvdyqlj78w0j5nawc76wsn4pqmdxj4q5zl
-   - ajofuk 1 point
+   - ajofuk 1 point - osmo1hdehvekr272dgs33u7sz5vxwc205p7f94cqssk
    - 1000 OSMO * x/13
 
 # Bounty 2. Derive governance history using script on CosmosHub 1,2,3,4 data
