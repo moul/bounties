@@ -47,11 +47,11 @@ Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon)
  * https://github.com/gnolang/bounties/issues/8
    - https://github.com/romelukaku/gaia-scraper
    - hub1 data seems strange
-   - hub2, hub3 data seems ok (and complete?)
+   - hub2, hub3, hub4 data seems ok (and complete? review pending.)
    - thank you romelukaku
 
  * proposed rewards:
-   - romelukaku 15 points
+   - romelukaku 16 points
    - RowanUtrecht 3 points
    - Nostradamus411 5 points - osmo10jm8fvdyqlj78w0j5nawc76wsn4pqmdxj4q5zl
-   - 5000 OSMO * x/23
+   - 5000 OSMO * x/24
