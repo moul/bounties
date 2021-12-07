@@ -30,7 +30,7 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Include instructions for building this binary from a verified build of Go.
   * 1000 ATOMs from @jaekwon
   * Same number of GNOTs as #4.
-  * See https://github.com/gnolang/bounties/issues/11 for discussion on goals.
+  * See https://github.com/gnolang/bounties/issues/15 for discussion on goals.
 
 # Completed Bounties
 
