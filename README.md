@@ -26,10 +26,11 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
     - use custom entropy (e.g. dice-rolls).
     - ask everyone on Cosmos to publish both backup pubkeys by sending a transaction with memo to a null address bech32(20 zero bytes).
   * Use the same bip39/bip32 construction for the secp256k1 privkey/pubkey.
-  * Use only sha256() for the ed25519 privkey/pubkey but otherwise no KDF function (may need to modify gno/pkgs & gnokey.
+  * Use only sha256() for the ed25519 privkey/pubkey and an alternative sha256-based KDF function (may need to modify gno/pkgs & gnokey.
   * Include instructions for building this binary from a verified build of Go.
   * 1000 ATOMs from @jaekwon
   * Same number of GNOTs as #4.
+  * See https://github.com/gnolang/bounties/issues/11 for discussion on goals.
 
 # Completed Bounties
 
