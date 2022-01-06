@@ -52,6 +52,6 @@ Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon)
 
  * proposed rewards:
    - romelukaku 16 points - osmo1jnqptkzgx4wpaa9kxqsfq2pfh2d56let3xmefu
-   - RowanUtrecht 3 points
+   - RowanUtrecht 3 points - osmo1qztzc3pze6d3w5cpat4ysqhv46gxqf0hpycqt4
    - Nostradamus411 5 points - osmo10jm8fvdyqlj78w0j5nawc76wsn4pqmdxj4q5zl
    - 5000 OSMO * x/24
