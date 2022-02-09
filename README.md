@@ -37,6 +37,7 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Use publicly verifiable information to track the current AND historic delegations of the ICF.
   * Any code and data must be well organized, commented, and easy to grok.
   * Create a table of historic and current delegators, and their identities and respective owners.
+  * Unspecified number of ATOMs and GNOTs depending on difficulty.
 
 # Completed Bounties
 
