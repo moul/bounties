@@ -32,6 +32,12 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Same number of GNOTs as #4.
   * See https://github.com/gnolang/bounties/issues/15 for discussion on goals.
 
+### 6. Calculate the delegations of the ICF
+  * This is an exercise in keeping public institutions accountable.
+  * Use publicly verifiable information to track the current AND historic delegations of the ICF.
+  * Any code and data must be well organized, commented, and easy to grok.
+  * Create a table of historic and current delegators, and their identities and respective owners.
+
 # Completed Bounties
 
 ### 1. Get CosmosHub 1,2,3 blockchain data
