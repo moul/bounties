@@ -30,7 +30,12 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * See https://nitter.net/jaekwon/status/1501625690549936132#m
   * 4000 ATOMs from @jaekwon
   * Significantly more GNOTs than prior bounties
-  * Continued partership for GNO
+  * Continued partership with GNO
+
+### 9. Keplr or similar for GNO contracts
+  * See https://gno.land/r/boards?funcs for example contract endpoints
+  * Significant GNOTs; negotiable.
+  * Continued partership with GNO
 
 # Completed Bounties
 
