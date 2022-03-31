@@ -16,28 +16,21 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * 1000 ATOMs from @jaekwon
   * More GNOTs than from #3.
 
-### 5. Make script for Backup Keys
-  * We can't know that there hasn't been a leak of private keys via some unknown mechanism.
-  * A large scale theft is almost inconceivable, but possible for all one knows.
-  * Such a large scale theft is the only existential risk to cosmos/crypto.
-  * Create a simple English document and Go code for the following procedures:
-    - create a backup secp256k1 AND ed25519 pubkeys on an airgapped offline computer.
-    - use gnokey.
-    - use custom entropy (e.g. dice-rolls).
-    - ask everyone on Cosmos to publish both backup pubkeys by sending a transaction with memo to a null address bech32(20 zero bytes).
-  * Use the same bip39/bip32 construction for the secp256k1 privkey/pubkey.
-  * Use only sha256() for the ed25519 privkey/pubkey and an alternative sha256-based KDF function (may need to modify gno/pkgs & gnokey.
-  * Include instructions for building this binary from a verified build of Go.
-  * 1000 ATOMs from @jaekwon
-  * Same number of GNOTs as #4.
-  * See https://github.com/gnolang/bounties/issues/15 for discussion on goals.
+### 7. Snapshot fork of the CosmosHub
+  * Genesis distribution from well structured Go code.
+  * See https://nitter.net/jaekwon/status/1504231750725083138#m
+  * Does not need to use CosmosHub1,2,3; only from CosmosHub4.
+  * Output artifacts should include a separate table of coins (being updated per block).
+  * 2000 ATOMs from @jaekwon
+  * Significantly more GNOTs than prior bounties
+  * Start negotiation on design spec submission
 
-### 6. Calculate the delegations of the ICF
-  * This is an exercise in keeping public institutions accountable.
-  * Use publicly verifiable information to track the current AND historic delegations of the ICF.
-  * Any code and data must be well organized, commented, and easy to grok.
-  * Create a table of historic and current delegators, and their identities and respective owners.
-  * Unspecified number of ATOMs and GNOTs depending on difficulty.
+### 8. BETACOIN for Cosmos
+  * Related to bounty #7.
+  * See https://nitter.net/jaekwon/status/1501625690549936132#m
+  * 4000 ATOMs from @jaekwon
+  * Significantly more GNOTs than prior bounties
+  * Continued partership for GNO
 
 # Completed Bounties
 
@@ -55,6 +48,31 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * 5000 OSMO from @jaekwon
   * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
   * [SUMMARY](bounties/001_cosmoshub_blockchain_data/README.md).
+
+### 5. Make script for Backup Keys
+  * We can't know that there hasn't been a leak of private keys via some unknown mechanism.
+  * A large scale theft is almost inconceivable, but possible for all one knows.
+  * Such a large scale theft is the only existential risk to cosmos/crypto.
+  * Create a simple English document and Go code for the following procedures:
+    - create a backup secp256k1 AND ed25519 pubkeys on an airgapped offline computer.
+    - use gnokey.
+    - use custom entropy (e.g. dice-rolls).
+    - ask everyone on Cosmos to publish both backup pubkeys by sending a transaction with memo to a null address bech32(20 zero bytes).
+  * Use the same bip39/bip32 construction for the secp256k1 privkey/pubkey.
+  * Use only sha256() for the ed25519 privkey/pubkey and an alternative sha256-based KDF function (may need to modify gno/pkgs & gnokey.
+  * Include instructions for building this binary from a verified build of Go.
+  * 1000 ATOMs from @jaekwon
+  * Same number of GNOTs as #4.
+  * See https://github.com/gnolang/bounties/issues/15 for discussion on goals.
+  * [SUMMARY TODO](XXX). see https://github.com/gnolang/gno/pull/98; also tallying
+
+### 6. Calculate the delegations of the ICF
+  * This is an exercise in keeping public institutions accountable.
+  * Use publicly verifiable information to track the current AND historic delegations of the ICF.
+  * Any code and data must be well organized, commented, and easy to grok.
+  * Create a table of historic and current delegators, and their identities and respective owners.
+  * Unspecified number of ATOMs and GNOTs depending on difficulty.
+  * [SUMMARY TODO](XXX). tallying 
 
 # Instructions
 
