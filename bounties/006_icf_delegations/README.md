@@ -7,13 +7,15 @@
   PAYMENT: pending, will be updated here when done.
 
    * https\://github.com/gnolang/bounties/issues/18
-    - manual research of icf delegations on mintscan
+     - manual research of icf delegations on mintscan
+     - thank you LL-Cosmo
 
    * https\://github.com/gnolang/bounties/issues/18
-   * https\://github.com/piyush4/bounty-6
-    - Python scripts for calculating ICF delegations from Cosmos hub RPC and mintscan
+     - https\://github.com/piyush4/bounty-6
+     - Python scripts for calculating ICF delegations from Cosmos hub RPC and mintscan
+     - thank you piyush4
 
    * proposed rewards
-    - LL-Cosmo - x points - cosmos14ypel6pjxzvygwmm7quq87v9rntqkpvuxmqvrr
-    - piyush4 - y points - cosmos122taa46qrdv22ryk6v9wvs285y24q9z2ydf4k4
-    - z (coin) * k/(x+y)
+     - LL-Cosmo - x points - cosmos14ypel6pjxzvygwmm7quq87v9rntqkpvuxmqvrr
+     - piyush4 - y points - cosmos122taa46qrdv22ryk6v9wvs285y24q9z2ydf4k4
+     - z (coin) * k/(x+y)
