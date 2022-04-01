@@ -6,10 +6,10 @@
   Unspecified number of ATOMs and GNOTs depending on difficulty.
   PAYMENT: pending, will be updated here when done.
 
-   * https://github.com/gnolang/bounties/issues/18 (ICF addresses and delegations)
+   * https\://github.com/gnolang/bounties/issues/18 (ICF addresses and delegations)
    - manual research of icf delegations on mintscan
 
-   * https://github.com/piyush4/bounty-6
+   * https\://github.com/piyush4/bounty-6
    - Python scripts for calculating ICF delegations from Cosmos hub RPC and mintscan
 
    * proposed rewards
