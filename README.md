@@ -20,12 +20,12 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Genesis distribution from well structured Go code.
   * See https://nitter.net/jaekwon/status/1504231750725083138#m
   * Does not need to use CosmosHub1,2,3; only from CosmosHub4.
-  * Output artifacts should include a separate table of coins (being updated per block).
   * 2000 ATOMs from @jaekwon
   * Significantly more GNOTs than prior bounties
   * Start negotiation on design spec submission
 
 ### 8. BETACOIN for Cosmos
+  * STOP, ON HOLD -- WORKING ON #7.
   * Related to bounty #7.
   * See https://nitter.net/jaekwon/status/1501625690549936132#m
   * 4000 ATOMs from @jaekwon
