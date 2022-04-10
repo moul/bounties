@@ -37,6 +37,17 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Significant GNOTs; negotiable.
   * Continued partership with GNO
 
+### 10. Use GO typechecker
+  * Rename .go to .gno where appropriate
+  * Make gno precompiler (which comes before preprocessor) compile .gno to .go in same folder.
+  * "gno.land/r/realm" in .gno becomes "github.com/gnolang/gno/examples/gno.land/r/realm" in .go.
+  * "std" becomes "github.com/gnolang/gno/stdlibs/stdshim" (?) 
+  * keeps a whitelist of stdlib packages (to prevent attacks, to prevent compiling malware).
+  * Precompiler tries to compile the translated .go code using go, before proceeding.
+  * Solves this: https://github.com/gnolang/gno/issues/107
+  * 500 ATOMs
+  * Significantly more GNOTs than prior bounties
+
 # Completed Bounties
 
 ### 1. Get CosmosHub 1,2,3 blockchain data
