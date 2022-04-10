@@ -17,6 +17,7 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * More GNOTs than from #3.
 
 ### 7. Snapshot fork of the CosmosHub
+  * UPDATE: see https://github.com/gnolang/bounties/issues/24#issuecomment-1094298684
   * Genesis distribution from well structured Go code.
   * See https://nitter.net/jaekwon/status/1504231750725083138#m
   * Does not need to use CosmosHub1,2,3; only from CosmosHub4.
