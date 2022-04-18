@@ -16,6 +16,5 @@
      - thank you piyush4
 
    * proposed rewards
-     - LL-Cosmo - x points - cosmos14ypel6pjxzvygwmm7quq87v9rntqkpvuxmqvrr
-     - piyush4 - y points - cosmos122taa46qrdv22ryk6v9wvs285y24q9z2ydf4k4
-     - z (coin) * k/(x+y)
+     - LL-Cosmo - 667 atoms - cosmos14ypel6pjxzvygwmm7quq87v9rntqkpvuxmqvrr
+     - piyush4 - 667 atoms - cosmos122taa46qrdv22ryk6v9wvs285y24q9z2ydf4k4
