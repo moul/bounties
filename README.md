@@ -89,7 +89,7 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * Any code and data must be well organized, commented, and easy to grok.
   * Create a table of historic and current delegators, and their identities and respective owners.
   * Unspecified number of ATOMs and GNOTs depending on difficulty.
-  * [SUMMARY TODO](XXX). tallying 
+  * [SUMMARY](https://github.com/gnolang/bounties/tree/main/bounties/006_icf_delegations).
 
 # Instructions
 
