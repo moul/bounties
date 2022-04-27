@@ -1,3 +1,5 @@
+__UPDATE__: https://gno.land/r/boards:bounties <-- bounties will be ported there.
+
 # Active Bounties
 
 If you see active bounties on github.com/gnolang/bounties, it is still active!
